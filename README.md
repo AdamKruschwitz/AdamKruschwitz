@@ -1,5 +1,10 @@
-# Adam Smells...
-good :)
+# Adam Kruschwitz
+
+Hello! I'm Adam, I'm a web developer from NY, currently studying in the Bay Area California.
+
+I'm currently enrolled in the UC Berkley full stack development code bootcamp, with an academic average of A+. I'm looking for remote work as a web developer.
+
+Currently, I'm working on a web game tentatively called "Block Paint", a movement puzzle where you roll around as a block and paint a grid to match a given image.
 
 <!--
 **AdamKruschwitz/AdamKruschwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="" target="-blank">new tab?</a>
