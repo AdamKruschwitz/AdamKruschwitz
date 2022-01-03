@@ -6,7 +6,7 @@ I'm currently enrolled in the UC Berkley full stack development code bootcamp, w
 
 I am currently working with a team on a new project called Teachback, a markdown tutorial platform geared towards demonstrating new tools for your team.
 
-Check out my portfolio [here](https://adamkruschwitz.github.io/Professional-Portfolio/)
+Check out my portfolio [here](https://portfolio-beta-ecru-65.vercel.app/)
 
 <!--
 **AdamKruschwitz/AdamKruschwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
