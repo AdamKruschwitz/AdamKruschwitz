@@ -11,7 +11,7 @@ I recently graduated from the UC Berkeley full-stack web development bootcamp wi
 
 I'm currently learning AWS through self study, and I'm working on a new project Teachback, a tutorial platform for development teams.
 
-Check out my portfolio [here](https://portfolio-beta-ecru-65.vercel.app/)
+Check out my portfolio [here](https://www.adamkruschwitz.com)
 
 <!--
 **AdamKruschwitz/AdamKruschwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
